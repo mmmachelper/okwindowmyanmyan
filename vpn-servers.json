@@ -1,1 +1,23 @@
-T
+{
+  "version": "1",
+  "keys": [
+    {
+      "id": "myanmyan-1",
+      "name": "Myan Myan - 1",
+      "access_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRzE5djhxR0g5eDZzSDVCZHBaa2I4@64.176.174.64:443/?outline=1",
+      "enabled": true
+    },
+    {
+      "id": "myanmyan-2",
+      "name": "Myan Myan - 2",
+      "access_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqc3l5TE9wU2k5TXpIQ1FSR001dGlN@141.164.57.75:443/?outline=1",
+      "enabled": true
+    },
+    {
+      "id": "myanmyan-3",
+      "name": "Myan Myan - 3",
+      "access_url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRzE5djhxR0g5eDZzSDVCZHBaa2I4@64.176.174.64:443/?outline=1",
+      "enabled": true
+    }
+  ]
+}
