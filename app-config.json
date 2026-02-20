@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-02-20T00:00:00Z",
+  "splash": {
+    "enabled": true,
+    "image_url": "https://raw.githubusercontent.com/mmmachelper/okwindowmyanmyan/refs/heads/main/splash.png",
+    "title": "Myan Myan",
+    "subtitle": "Fast and secure connection",
+    "duration_ms": 2200
+  },
+  "maintenance": {
+    "enabled": false,
+    "title": "Maintenance",
+    "message": "Service is under maintenance. Please try again later.",
+    "start_at": "2026-02-20T18:00:00Z",
+    "end_at": "2026-02-20T20:00:00Z"
+  },
+  "app_update": {
+    "enabled": true,
+    "latest_version": "1.0.0",
+    "minimum_supported_version": "1.0.0",
+    "force_update_below": "1.0.0",
+    "allow_skip_for_versions": [
+      "1.0.0"
+    ],
+    "release_notes_url": "https://github.com/mmmachelper/okwindowmyanmyan/releases/latest",
+    "download_url": "https://github.com/mmmachelper/okwindowmyanmyan/releases/latest/download/Myan-Myan-VPN-Client.exe"
+  }
+}
