@@ -16,7 +16,7 @@
     "end_at": "2026-02-20T20:00:00Z"
   },
   "app_update": {
-    "enabled": true,
+    "enabled": false,
     "latest_version": "1.0.0",
     "minimum_supported_version": "1.0.0",
     "force_update_below": "1.0.0",
